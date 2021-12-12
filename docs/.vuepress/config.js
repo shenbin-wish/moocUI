@@ -1,6 +1,6 @@
 module.exports = {
     title:'Mooc-UI',
-    base:'moocUI/',
+    // base:'moocUI/',
     themeConfig: {
       nav:[{
         text: 'Home', link: '/'
